@@ -48,3 +48,20 @@ Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/DRAGFLICKER/COFFEE_SHOP.git
  * [new branch]      main -> main
 PS E:\git\coffeshop\COFFEE_SHOP> 
+
+
+
+
+
+
+
+
+
+
+**************************************
+------ git status
+------ git add .
+------ git commit -m "second commmit"
+------ git push
+
+****************************************
