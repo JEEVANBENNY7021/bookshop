@@ -1,0 +1,50 @@
+WINDOWS TERMINAL 
+
+E:\git\coffeshop>git clone https://github.com/DRAGFLICKER/COFFEE_SHOP.git
+Cloning into 'COFFEE_SHOP'...
+warning: You appear to have cloned an empty repository.
+
+E:\git\coffeshop>
+
+
+
+
+VS TERMINAL
+
+1 ) PS E:\git\coffeshop\COFFEE_SHOP> git status
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+        style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+2 ) PS E:\git\coffeshop\COFFEE_SHOP> git add .
+3 ) PS E:\git\coffeshop\COFFEE_SHOP> git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+        new file:   style.css
+
+4 ) PS E:\git\coffeshop\COFFEE_SHOP> git commit -m "book"
+[main (root-commit) 3e3fc1d] book
+ 2 files changed, 491 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 style.css
+5 )PS E:\git\coffeshop\COFFEE_SHOP> git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 6.06 KiB | 54.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/DRAGFLICKER/COFFEE_SHOP.git
+ * [new branch]      main -> main
+PS E:\git\coffeshop\COFFEE_SHOP> 
